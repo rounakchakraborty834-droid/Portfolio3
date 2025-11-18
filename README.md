@@ -10,7 +10,7 @@ Designed with a dark theme, smooth animations, and a clean user interface to pro
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://luminous-cuchufli-2275de.netlify.app/)
+You can view the live website here: [Live Demo][(https://luminous-cuchufli-2275de.netlify.app/)](https://rounakchakraborty834-droid.github.io/Portfolio3/)
 
 ---
 
@@ -80,13 +80,13 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: rounakchakraborty834@gmail.com   
+- Location: West Bengal, India  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rounak-chakraborty-b55378369)  
+- GitHub: [GitHub](https://github.com/rounakchakraborty834-droid)  
+- Instagram: [Instagram](https://www.instagram.com/_rounak._.29)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Rounak**
 
