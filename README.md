@@ -54,11 +54,11 @@ portfolio6/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Saboo24/portfolio6.git
+   git clone https://github.com/rounakchakraborty834-droid/portfolio3.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd portfolio6
+   cd portfolio3
    ```
 3. Open `index.html` in your favorite browser to view the website.
 
